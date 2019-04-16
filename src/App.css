@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.table>tbody>tr>td {
+  vertical-align: unset;
+  width: 180px;
+}
+
+.table-bordered>thead>tr>th {
+  text-align: center;
+}
+
+.action-column {
+  width: 440px !important;
+}
+
+.form-element {
+  margin-right: 15px;
+}
+
+.main-container {
+  margin-top: 70px;
+}
+
+.login {
+  padding: 60px 0;
+}
+
+.login form {
+  margin: 0 auto;
+  max-width: 320px;
+}
+
+.logout {
+  margin-top: 16px;
+}
+
+.refresh-button {
+  margin-top: 4px;
+  margin-right: 4px;
+}
